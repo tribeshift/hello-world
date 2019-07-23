@@ -1,0 +1,2 @@
+# hello-world
+Tribe Shift is a platform which focuses on connection, community and collaboration.  Members help each other with their personal and professional goals.  This is achieved by leveraging the combined skills, resources and contacts of all the members within the community.  As well as ongoing online collaborations, there are also frequent offline events, through which members can socialise and build on their connections. 
